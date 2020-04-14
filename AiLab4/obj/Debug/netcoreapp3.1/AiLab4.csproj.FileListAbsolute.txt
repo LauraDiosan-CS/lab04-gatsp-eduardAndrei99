@@ -1,0 +1,13 @@
+C:\Users\Edy\source\repos\AiLab4\AiLab4\bin\Debug\netcoreapp3.1\AiLab4.exe
+C:\Users\Edy\source\repos\AiLab4\AiLab4\bin\Debug\netcoreapp3.1\AiLab4.deps.json
+C:\Users\Edy\source\repos\AiLab4\AiLab4\bin\Debug\netcoreapp3.1\AiLab4.runtimeconfig.json
+C:\Users\Edy\source\repos\AiLab4\AiLab4\bin\Debug\netcoreapp3.1\AiLab4.runtimeconfig.dev.json
+C:\Users\Edy\source\repos\AiLab4\AiLab4\bin\Debug\netcoreapp3.1\AiLab4.dll
+C:\Users\Edy\source\repos\AiLab4\AiLab4\bin\Debug\netcoreapp3.1\AiLab4.pdb
+C:\Users\Edy\source\repos\AiLab4\AiLab4\obj\Debug\netcoreapp3.1\AiLab4.csprojAssemblyReference.cache
+C:\Users\Edy\source\repos\AiLab4\AiLab4\obj\Debug\netcoreapp3.1\AiLab4.csproj.CoreCompileInputs.cache
+C:\Users\Edy\source\repos\AiLab4\AiLab4\obj\Debug\netcoreapp3.1\AiLab4.AssemblyInfoInputs.cache
+C:\Users\Edy\source\repos\AiLab4\AiLab4\obj\Debug\netcoreapp3.1\AiLab4.AssemblyInfo.cs
+C:\Users\Edy\source\repos\AiLab4\AiLab4\obj\Debug\netcoreapp3.1\AiLab4.dll
+C:\Users\Edy\source\repos\AiLab4\AiLab4\obj\Debug\netcoreapp3.1\AiLab4.pdb
+C:\Users\Edy\source\repos\AiLab4\AiLab4\obj\Debug\netcoreapp3.1\AiLab4.genruntimeconfig.cache
